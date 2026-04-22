@@ -22,8 +22,12 @@ Estudante de análise de dados e entusiasta de tecnologia, focado em transformar
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/bruno0508-boop">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno0508-boop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/bruno0508-boop">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno0508-boop&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </p>
 
 ---
@@ -32,6 +36,3 @@ Estudante de análise de dados e entusiasta de tecnologia, focado em transformar
 
 - **LinkedIn:** [[linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/bruno-costa-abb33bbb/)
 
----
-
-> *"Os dados são o novo petróleo, mas só têm valor se forem refinados."*
