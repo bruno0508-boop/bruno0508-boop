@@ -24,5 +24,5 @@ Estudante de análise de dados e entusiasta de tecnologia, focado em transformar
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [[linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/bruno-costa-abb33bbb/)
+- **LinkedIn:** (https://www.linkedin.com/in/bruno-costa-abb33bbb/)
 
